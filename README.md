@@ -1,5 +1,3 @@
-# covid19-data-analysis-r
-An analysis of COVID-19 global data using R: confirmed cases, deaths, fatality rate, and recovery rate.
 # COVID-19 Data Analysis with R
 
 This project analyzes country-wise COVID-19 data using R. It explores fatality rates, confirmed cases, and visualizations to better understand the pandemic's global impact.
